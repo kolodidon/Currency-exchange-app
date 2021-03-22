@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/exchange-app/static/css/main.b589e6bf.chunk.css",
+    "main.js": "/exchange-app/static/js/main.533f09d9.chunk.js",
+    "main.js.map": "/exchange-app/static/js/main.533f09d9.chunk.js.map",
+    "runtime-main.js": "/exchange-app/static/js/runtime-main.3d88282c.js",
+    "runtime-main.js.map": "/exchange-app/static/js/runtime-main.3d88282c.js.map",
+    "static/js/2.2017eb84.chunk.js": "/exchange-app/static/js/2.2017eb84.chunk.js",
+    "static/js/2.2017eb84.chunk.js.map": "/exchange-app/static/js/2.2017eb84.chunk.js.map",
+    "index.html": "/exchange-app/index.html",
+    "precache-manifest.887c238ccc47491678f45cf0ac31faed.js": "/exchange-app/precache-manifest.887c238ccc47491678f45cf0ac31faed.js",
+    "service-worker.js": "/exchange-app/service-worker.js",
+    "static/css/main.b589e6bf.chunk.css.map": "/exchange-app/static/css/main.b589e6bf.chunk.css.map",
+    "static/js/2.2017eb84.chunk.js.LICENSE.txt": "/exchange-app/static/js/2.2017eb84.chunk.js.LICENSE.txt",
+    "static/media/CNY.png": "/exchange-app/static/media/CNY.dc8dc7aa.png",
+    "static/media/EUR.png": "/exchange-app/static/media/EUR.e1c9768d.png",
+    "static/media/GBP.png": "/exchange-app/static/media/GBP.38c13285.png",
+    "static/media/JPY.png": "/exchange-app/static/media/JPY.9987aabc.png",
+    "static/media/RUB.png": "/exchange-app/static/media/RUB.0c79b82e.png",
+    "static/media/USD.png": "/exchange-app/static/media/USD.ff97e132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d88282c.js",
+    "static/js/2.2017eb84.chunk.js",
+    "static/css/main.b589e6bf.chunk.css",
+    "static/js/main.533f09d9.chunk.js"
+  ]
+}

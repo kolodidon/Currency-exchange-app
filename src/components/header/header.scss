@@ -1,0 +1,57 @@
+.headerWrap {
+    display: flex;
+    justify-content: space-evenly;
+}
+.header {
+    min-height: 5vw;
+
+    hr {
+        margin: 0;
+        border: 1px solid #223046;
+    }
+}
+
+.logo {
+    margin-left: -24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a {
+        text-decoration: none;
+    }
+
+    h2 {
+        font-family: 'Lato', sans-serif;
+        color: #223046;
+        font-size: 1.6vw;
+        cursor: pointer;
+        
+        span {
+            opacity: 0;
+            color: green;
+            transition: opacity .3s ease-in;
+        }
+    }
+
+    h2:hover > span {
+        opacity: 1;
+    }
+}
+
+.person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    i {
+        color: #223046;
+        font-size: 1.6vw;
+        cursor: pointer;
+        transition: all .3s ease-in;
+    }
+
+    i:hover {
+        color: black;
+    }
+}

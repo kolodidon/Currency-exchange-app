@@ -132,7 +132,7 @@ fetch(`https://api.exchangeratesapi.io/latest?base=${this.state.base}`)
 ```
 
 ### Логин / Регистрация <a name="login_register"></a>
-Таким образом реализован запрос на логинизацию:
+Таким образом реализован запрос на логинизацию (авторизованные пользователи хранятся на сервере Google Firebase):
 ```js
 loginHandler = async () => {
     const authData = {
@@ -161,7 +161,7 @@ loginHandler = async () => {
     }
   };
 ```
-Схожим образом реализован запрос на регистрацию:
+Схожим образом реализован запрос на регистрацию (новый пользователь фиксируется на сервере Google Firebase):
 ```js
   registerHandler = async () => {
     const authData = {
